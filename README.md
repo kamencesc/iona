@@ -14,6 +14,8 @@ Since now underlying [jvsio](https://github.com/toyoshim/jvsio) library supports
 
 Also there is [another example](https://github.com/toyoshim/iona-js) to run iona compatible functionalities without the Arduino firmware.
 
+The USB-HID part for USB Joystick needs [Joystick Library by Matthew Heironimus](https://github.com/MHeironimus/ArduinoJoystickLibrary) and there is how to install it [Installing Additional Arduino Libraries](https://www.arduino.cc/en/guide/libraries).
+
 ## Schematic
 
 This program makes an Arduino Pro Micro work as a JVS IO Board that allows youto connect a legacy AES compatible joystick gamepad (included Button 5 and 6 for customomized arcade sticks.
