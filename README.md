@@ -4,6 +4,8 @@ The code was tested on a prototype board by Stefano Minozzi (cyllboy).
 
 Freel free to contact for questions about code and board.
 
+!! ALERT: It seems that has some issues with Neogeo CD Gamepad, DB15 pin 8 is connected to RAW causing not working correctly. (15/02/2021) !!
+
 # IONA - JVS IO Board by Arduino Pro Micro
 
 Original code by [Takashi Toyoshima](https://github.com/toyoshim).
