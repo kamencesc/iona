@@ -44,6 +44,7 @@ In JVS mode, the Naomi's USB doesn't give power to the board, use the micro USB 
 | 5V  5V  GND GND |   CN7
  ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 ```
+!! Be careful with your Pro Micro's voltage config, jumper J1 needs to be set at 5V !!
 ## Board (PCB)
 
 ![PCB](./PCB/board_v1.png)
