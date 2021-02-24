@@ -47,7 +47,7 @@ In JVS mode, the Naomi's USB doesn't give power to the board, use the micro USB 
 !! Be careful with your Pro Micro's voltage config, jumper J1 needs to be set at 5V !!
 ## Board (PCB)
 
-![PCB](./PCB/board_v2.png)
+![PCB_front](./PCB/board_v2_front.png) ![PCB_back](./PCB/board_v2_back.png)
 
 ## !! Use an Arduino Pro Micro with micro USB connector, the mini USB version is a little wider) !! ##
 
