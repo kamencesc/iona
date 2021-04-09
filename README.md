@@ -55,5 +55,7 @@ The GND pins from the arduino are marked in white, and there's an indication of 
 
 ![ARDUINO](./arduino_pro_micro.png)
 
+And, the pins go up, the PCB is used like a regular Shield.
+
 Note: JVS uses the USB connector, but it isn't the real USB at all.
 The protocol is completely different, and it does not provide the 5V power.
