@@ -51,6 +51,10 @@ The GND pins from the arduino are marked in white, and there's an indication of 
 
 ![PCB_front](./PCB/board_v2_front.png) ![PCB_back](./PCB/board_v2_back.png)
 
+Be sure that you mount the pinheader on the component side of the arduino:
+
+![PCB_front](./3d_board.png)
+
 ## !! Use an Arduino Pro Micro with micro USB connector, the mini USB version is a little wider) !! ##
 
 ![ARDUINO](./arduino_pro_micro.png)
